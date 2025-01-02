@@ -1,0 +1,1 @@
+This is duplicated in my dotfiles repo but I'm not sure I want to have all of that stuff bundled together so I'm putting this here in case I want to separate my dotfiles in the future. Nvim is the most important of them.
